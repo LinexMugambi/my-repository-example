@@ -1,0 +1,126 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 6,
+    "passes": 6,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-11-14T11:50:57.011Z",
+    "end": "2022-11-14T11:50:57.020Z",
+    "duration": 9
+  },
+  "tests": [
+    {
+      "title": "has a folder named my-repository",
+      "fullTitle": "this lab has a folder named my-repository",
+      "file": "/home/victor/phase-0-git-basics-lab/test/index-test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a valid git repository initialized for the my-repository folder",
+      "fullTitle": "this lab has a valid git repository initialized for the my-repository folder",
+      "file": "/home/victor/phase-0-git-basics-lab/test/index-test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a README.md file in the my-repository folder",
+      "fullTitle": "this lab has a README.md file in the my-repository folder",
+      "file": "/home/victor/phase-0-git-basics-lab/test/index-test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has README.md as a tracked file",
+      "fullTitle": "the local repository has README.md as a tracked file",
+      "file": "/home/victor/phase-0-git-basics-lab/test/index-test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has at least one commit",
+      "fullTitle": "the local repository has at least one commit",
+      "file": "/home/victor/phase-0-git-basics-lab/test/index-test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has been pushed up to the remote repository",
+      "fullTitle": "the local repository has been pushed up to the remote repository",
+      "file": "/home/victor/phase-0-git-basics-lab/test/index-test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "has a folder named my-repository",
+      "fullTitle": "this lab has a folder named my-repository",
+      "file": "/home/victor/phase-0-git-basics-lab/test/index-test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a valid git repository initialized for the my-repository folder",
+      "fullTitle": "this lab has a valid git repository initialized for the my-repository folder",
+      "file": "/home/victor/phase-0-git-basics-lab/test/index-test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a README.md file in the my-repository folder",
+      "fullTitle": "this lab has a README.md file in the my-repository folder",
+      "file": "/home/victor/phase-0-git-basics-lab/test/index-test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has README.md as a tracked file",
+      "fullTitle": "the local repository has README.md as a tracked file",
+      "file": "/home/victor/phase-0-git-basics-lab/test/index-test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has at least one commit",
+      "fullTitle": "the local repository has at least one commit",
+      "file": "/home/victor/phase-0-git-basics-lab/test/index-test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has been pushed up to the remote repository",
+      "fullTitle": "the local repository has been pushed up to the remote repository",
+      "file": "/home/victor/phase-0-git-basics-lab/test/index-test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
